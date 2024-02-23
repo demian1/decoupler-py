@@ -1533,7 +1533,7 @@ def plot_associations(data, uns_key, associations=None, cols=None, obs_annotatio
     Create a composite plot displaying association results between scores (bottom) and summary statistics
     (top) using a clustermap.
 
-    Requires PyComplexHeatmap to be installed.
+    Requires the marsilea package to be installed.
 
     Parameters:
     ------------
